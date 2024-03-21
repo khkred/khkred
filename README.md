@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @khkred
-- 👀 I’m interested in ... Flutter, Machine Learning and Android Apps
-- 🌱 I’m currently learning ... Firebase on Flutter,Lua with DeepLearning
-- 💞️ I’m looking to collaborate on ... Flutter, Android and ML Projects in near future
-- 📫 How to reach me ... [telegram](https://t.me/khkr1) , [linkedIn](https://www.linkedin.com/in/khkred/)
-
-<!---
-khkred/khkred is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello there, I’m @khkred!
+- 📱 I’m passionate about crafting seamless mobile experiences with Flutter and I'm always excited about the potential of integrating Machine Learning into mobile applications.
+- 🚀 I’m currently deepening my expertise in cloud services with Firebase, ensuring scalable and robust backends for Flutter applications.
+- 🧠 Expanding my horizons, I’m also exploring Lua for Machine Learning to bring more intelligent features into my projects.
+- 💡 I’ve recently led the development of a community-based app, GotInfo, similar to Nextdoor, handling everything from UI design to cloud infrastructure management.
+- 🤝 I’m open to collaborations on innovative projects involving Flutter, Android development, and Machine Learning. I am particularly interested in projects that make a difference in community engagement and local connectivity.
+- 🌐 Find me on the web: 
+  - 📫 [Telegram](https://t.me/khkr1)
+  - 💼 [LinkedIn](https://www.linkedin.com/in/khkred/)
